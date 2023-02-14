@@ -14,7 +14,7 @@ Timeout Test
     select radio button  Gender  M
     input text  name:FirstName  Shivam
     input text  name:LastName   Sharma
-    input text  name:Email  shivamsharmamdh@gmail.com
-    input text  name:Password   Shivam@0105
-    input text  name:ConfirmPassword   Shivam@0105
+    input text  name:Email  xyz@gmail.com
+    input text  name:Password   Password@123
+    input text  name:ConfirmPassword   Password@123
     close browser
