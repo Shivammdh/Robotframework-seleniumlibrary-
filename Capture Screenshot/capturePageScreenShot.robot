@@ -2,7 +2,7 @@
 Library     SeleniumLibrary
 *** Variables ***
 ${browser}  chrome
-${url}  https://app.keka.com/Account/KekaLogin?returnUrl=%2F
+${url}  exampleURL.com
 *** Test Cases ***
 Capture page screenshot test
     Open Browser    ${url}  ${browser}
