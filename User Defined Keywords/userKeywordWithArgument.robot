@@ -8,8 +8,8 @@ ${url}  https://demo.guru99.com/test/newtours/
 *** Test Cases ***
 User Defined Keyword with Arguments
     LaunchTheBrowser    ${url}  ${browser}
-    Input Text    name:userName    Shivam
-    Input Text    name:password    Shivam@0105
+    Input Text    name:userName    XYZ
+    Input Text    name:password    Password@123
 
 *** Keywords ***
 LaunchTheBrowser
