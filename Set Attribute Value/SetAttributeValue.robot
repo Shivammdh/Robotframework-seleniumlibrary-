@@ -3,7 +3,7 @@ Library     SeleniumLibrary
 Library    XML
 *** Variables ***
 ${browser}  chrome
-${url}  https:kekaurl.com
+${url}  https:example.com
 *** Test Cases ***
 Set Attribute Value
     Open Browser    ${url}  ${browser}
